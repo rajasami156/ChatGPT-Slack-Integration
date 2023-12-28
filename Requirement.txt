@@ -1,0 +1,3 @@
+slack_bolt~=4.2.1
+langchain~=2.7.1
+dotenv~=0.20.0
