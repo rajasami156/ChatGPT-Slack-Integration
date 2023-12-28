@@ -1,8 +1,8 @@
-ChatGPT Slack Integration 🤖💬
+# ChatGPT Slack Integration 🤖💬
 
 This Slack integration, powered by OpenAI's ChatGPT, brings conversational AI capabilities directly to your Slack workspace. Now you can interact with a chatbot clone within Slack, leveraging the OpenAI language model for seamless and dynamic conversations.
 
-Features
+### Features
 
 Real-time Chatbot: Engage in natural language conversations with the ChatGPT clone right in your Slack channels.
 Interactive Responses: Receive instant and contextual responses to your queries, thanks to OpenAI's language processing capabilities.
